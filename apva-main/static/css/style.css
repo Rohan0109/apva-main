@@ -6,8 +6,3 @@ df-messenger {
     --df-messenger-send-icon: #878fac;
     --df-messenger-user-message: #8a2be2;
    }
-
-#messageList .message.user-message {
-    display: inline-block !important;
-    float: right;
-}
